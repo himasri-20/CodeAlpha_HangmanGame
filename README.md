@@ -21,11 +21,10 @@ Built using Python basics: random, while loops, if-else, strings, and lists.
 
 ## How to Run the Project
 1. Make sure you have **Python 3.x** installed on your system.
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/CodeAlpha_HangmanGame.git
 
-   <img width="1860" height="958" alt="Screenshot 2025-08-26 082528" src="https://github.com/user-attachments/assets/d169bf46-3c0a-48a9-a11e-0cfaa81926aa" />
+## output 
+<img width="1860" height="958" alt="Screenshot 2025-08-26 082528" src="https://github.com/user-attachments/assets/cf21ba70-76b8-4306-9186-fb7887b017ef" />
+
 ## Purpose of the Project
 The Hangman Game is designed to:
 - Strengthen understanding of **Python basics** (loops, conditions, lists, and strings).
